@@ -85,7 +85,12 @@ __Lucasian professor of Mathematics__, Cambridge University
 # hello-world
 My first repository on Github
 I love :coffee: :pizza:, and :dancer:.
-
+# Skill
+HTML/CSS, Javascript, Bootstrap
+# Job
+Intern Front-end developer
+# Education
+Student of HaNoi University of Science and Technology
 <!-- ### Footer
 
 Last updated: May 2013 -->
