@@ -2,8 +2,8 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lai Tien Duc
+Employee of VNP
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,11 +13,11 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
-
+Student of Hanoi University of Science and Technology
+Employee of VNP
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Front-end Developer
 
 
 ### Research interests
@@ -27,18 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2017`
+__The Chuyen High School.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2017 - now`
+__Hanoi University of Science and Technology__
 
 
 
@@ -82,15 +75,6 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
-# hello-world
-My first repository on Github
-I love :coffee: :pizza:, and :dancer:.
-# Skill
-HTML/CSS, Javascript, Bootstrap
-# Job
-Intern Front-end developer
-# Education
-Student of HaNoi University of Science and Technology
 <!-- ### Footer
 
 Last updated: May 2013 -->
